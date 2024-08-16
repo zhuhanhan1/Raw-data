@@ -1,0 +1,13 @@
+"","Features","p.value","sig_cox_dat.HR","sig_cox_dat.lower.95","sig_cox_dat.upper.95"
+"1","Age",0.577,0.994,0.975,1.014
+"2","GenderMale",0.919,0.976,0.613,1.554
+"3","AJCC.Path.StageStage2",0.995,38748597.218,0,Inf
+"4","AJCC.Path.StageStage3",0.995,130613100.024,0,Inf
+"5","AJCC.Path.StageStage4",0.994,725487761.126,0,Inf
+"6","Path.Tumor.StageT2",0.995,3070676.358,0,Inf
+"7","Path.Tumor.StageT3",0.994,20353844.016,0,Inf
+"8","Path.Tumor.StageT4",0.994,74498083.781,0,Inf
+"9","Path.Nodes.StageN1",0,4,2.109,7.59
+"10","Path.Nodes.StageN2",0,8.273,4.456,15.359
+"11","Path.Metastasis.StageM1",0,11.963,7.043,20.32
+"12","Riskscore",0,2.718,1.937,3.815

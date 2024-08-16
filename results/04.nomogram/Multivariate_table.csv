@@ -1,0 +1,8 @@
+"","Features","p.value","muti_cox_dat.HR","muti_cox_dat.lower.95","muti_cox_dat.upper.95"
+"1","Path.Tumor.StageT2",0.996,4287256.496,0,Inf
+"2","Path.Tumor.StageT3",0.995,12372742.169,0,Inf
+"3","Path.Tumor.StageT4",0.995,30048592.862,0,Inf
+"4","Path.Nodes.StageN1",0.04,2.147,1.036,4.446
+"5","Path.Nodes.StageN2",0.053,2.107,0.99,4.482
+"6","Path.Metastasis.StageM1",0,6.468,3.431,12.195
+"7","Riskscore",0.045,1.55,1.01,2.378
